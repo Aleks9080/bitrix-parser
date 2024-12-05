@@ -1,0 +1,13 @@
+{
+	
+	"require-dev": {
+		"fabpot/goutte": "^4.0"
+	},
+	"autoload":{
+		"psr-4": {
+			"Itb\\":"lib/"
+		}
+	}
+	
+
+}
